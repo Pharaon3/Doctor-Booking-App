@@ -2,12 +2,12 @@
 
 **
 
-# 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
+# 🛎️🛎️ Good news! New & improved [V2](https://github.com/Pharaon3/Doctor-Booking-App) is out  
 
 **
 
 
-### <a href="https://react-landing-page-template-93ne.vercel.app/">LIVE DEMO</a> 
+<!-- ### <a href="https://react-landing-page-template-93ne.vercel.app/">LIVE DEMO</a>  -->
 
 ## Description
 This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
