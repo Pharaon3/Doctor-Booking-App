@@ -1,10 +1,13 @@
 {
   "Header": {
     "title": "Helping you achieve optimal health, your way.",
+    "largeImage": "img/portfolio/01-large.jpg",
+    "leftTitle": "Dr. Alex Chan",
+    "leftContent": "Health is a journey and you hold the power to biohack your way to your best life. This site is dedicated to my work as a Naturopathic Doctor, Entrepreneur, Educator and Formulator.",
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "I grew up in a naturopathic household and have always been fascinated by what our bodies are capable of. I believe that given the right support our bodies have amazing potential to maintain function (even as we age), recover from injury and allow us to lead empowered and fulfilling lives. This belief caused me to create one of the first comprehensive Biohacking programs in Canada at my clinic Integrative Naturopathic Medical Centre. It also drives my work as a formulator of Hidrate, a natural electrolyte drink company I co-founded with my husband, supplement designer and health educator.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -17,6 +20,12 @@
       "Exercitation ullamco",
       "Lorem ipsum dolor"
     ]
+  },
+  "Capability": {
+    "paragraph": "I grew up in a naturopathic household and have always been fascinated by what our bodies are capable of. I believe that given the right support our bodies have amazing potential to maintain function (even as we age), recover from injury and allow us to lead empowered and fulfilling lives. This belief caused me to create one of the first comprehensive Biohacking programs in Canada at my clinic Integrative Naturopathic Medical Centre. It also drives my work as a formulator of Hidrate, a natural electrolyte drink company I co-founded with my husband, supplement designer and health educator.",
+    "leftImage": "img/capability/left.jpg",
+    "middleImage": "img/capability/middle.jpg",
+    "rightImage": "img/capability/right.jpg"    
   },
   "Gallery": [
     {
