@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
+            Dr. Alex Chan
           </a>{" "}
         </div>
 
@@ -28,33 +28,33 @@ export const Navigation = (props) => {
         >
           <ul className="nav navbar-nav navbar-right">
             <li>
-              <a href="#features" className="page-scroll">
-                Features
-              </a>
-            </li>
-            <li>
               <a href="#about" className="page-scroll">
                 About
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
+                LEARN
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                Work with me
               </a>
             </li>
             <li>
-              <a href="#testimonials" className="page-scroll">
-                Testimonials
+            <a href="https://www.instagram.com/dralexchan/" target="_blank" className="social-icon small w-inline-block" style={{display: 'flex'}}>
+              <img src="https://assets.website-files.com/616786a99cb0c574cc569c06/616786a99cb0c5a234569c68_icons8-instagram.svg" loading="lazy" alt="" className="social-image" />
               </a>
             </li>
             <li>
-              <a href="#team" className="page-scroll">
-                Team
+            <a href="https://www.linkedin.com/in/alex-chan-a12196214/?originalSubdomain=ca" target="_blank" className="social-icon small w-inline-block" style={{display: 'flex'}}>
+              <img src="https://assets.website-files.com/616786a99cb0c574cc569c06/616786a99cb0c54f9e569c66_icons8-linkedin-2.svg" loading="lazy" alt="" className="social-image" />
+              </a>
+            </li>
+            <li>
+            <a href="https://www.facebook.com/doctoralexchan/" target="_blank" className="social-icon small w-inline-block" style={{display: 'flex'}}>
+              <img src="https://assets.website-files.com/616786a99cb0c574cc569c06/616786a99cb0c5bec3569c69_icons8-facebook-f.svg" loading="lazy" alt="" className="social-image" />
               </a>
             </li>
             <li>
