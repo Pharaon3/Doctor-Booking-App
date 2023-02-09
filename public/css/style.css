@@ -708,3 +708,14 @@ label {
 .margin-down {
   margin-top: 100px;
 }
+.workwithme-header{
+  width: 60%;
+  text-align: center;
+  margin: auto;
+}
+.workwithme-header p{
+  font-family: Montserrat, sans-serif;
+  color: #000;
+  font-size: 18px;
+  line-height: 1.65em;
+}
