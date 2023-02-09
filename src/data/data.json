@@ -210,7 +210,8 @@
     "email": "info@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "youtube": "youtube.com",
+    "content": "* This website offers health and wellness information and is provided for educational purposes only. This is not intended to be a substitute for professional medical advice, diagnosis or treatment. Always speak with your physician or other healthcare provider before taking any medication or supplement, changing your diet/lifestyle or using any treatment for a medical concern. Do not disregard professional medical advice or delay in seeking medical care because of something you have read on this website."
   },
   "Features": [
     {

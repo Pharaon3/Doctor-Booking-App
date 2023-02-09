@@ -111,13 +111,27 @@ export const Contact = (props) => {
         </div>
       </div>
       <div id="footer">
-        <div className="container text-center">
-          <p>
-            &copy; 2021 DR ALEX CHAN{" "}
-            <a href="https://github.com/Pharaon3/Doctor-Booking-App" rel="nofollow">
-            PRIVACY POLICY
+        <div className="container text-center footer-element">
+          <p>&copy; 2021 DR ALEX CHAN </p>
+          <div>
+            <a
+              href="https://github.com/Pharaon3/Doctor-Booking-App"
+              rel="nofollow"
+              style={{ marginLeft: "50px", marginRight: "50px" }}
+            >
+              PRIVACY POLICY
             </a>
-          </p>
+            <a
+              href="https://github.com/Pharaon3/Doctor-Booking-App"
+              rel="nofollow"
+              style={{ marginLeft: "50px", marginRight: "50px" }}
+            >
+              TERMS & CONDITIONS
+            </a>
+          </div>
+        </div>
+        <div className="footer-content">
+          {props.data ? props.data.content : "Loading"}
         </div>
       </div>
     </div>

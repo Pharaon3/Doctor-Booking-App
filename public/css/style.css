@@ -925,3 +925,14 @@ h1 {
   line-height: 1.35em;
   font-weight: 600;
 }
+.footer-element{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.footer-content{
+  font-size: 9px;
+  line-height: 12px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
