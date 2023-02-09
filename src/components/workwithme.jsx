@@ -26,9 +26,42 @@ export const Workwithme = (props) => {
             />{" "}
             <div className="margin100">
               <p className="workwithme-element-id">01</p>
-              <h2 className="workwithme-element-title">{props.data ? props.data.element01Title : "Loading"}</h2>
+              <h2 className="workwithme-element-title">
+                {props.data ? props.data.element01Title : "Loading"}
+              </h2>
               <p>{props.data ? props.data.element01Content : "Loading"}</p>
               <h3 className="roundBtn">Book a session</h3>
+            </div>
+          </div>
+          <div id="workwithme-02" className="workwithme-elements">
+            <div className="margin100">
+              <p className="workwithme-element-id">02</p>
+              <h2 className="workwithme-element-title">
+                {props.data ? props.data.element02Title : "Loading"}
+              </h2>
+              <p>{props.data ? props.data.element02Content : "Loading"}</p>
+              <h3 className="roundBtn">Shop Hidrate</h3>
+            </div>{" "}
+            <img
+              src="img/portfolio/about.jpg"
+              className="img-responsive workwithme-image mainImage"
+              alt=""
+            />{" "}
+          </div>
+          <div id="workwithme-03" className="workwithme-elements">
+            {" "}
+            <img
+              src="img/portfolio/about.jpg"
+              className="img-responsive workwithme-image mainImage"
+              alt=""
+            />{" "}
+            <div className="margin100">
+              <p className="workwithme-element-id">03</p>
+              <h2 className="workwithme-element-title">
+                {props.data ? props.data.element03Title : "Loading"}
+              </h2>
+              <p>{props.data ? props.data.element03Content : "Loading"}</p>
+              <h3 className="roundBtn">Contact me</h3>
             </div>
           </div>
         </div>

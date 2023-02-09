@@ -41,20 +41,10 @@
     "headerContent": "I work with patients in my office practice at Integrative. I also consult for companies regarding product development, present at conferences and write about functional health and naturopathic medicine.",
     "element01Title": "Naturopathic Doctor",
     "element01Content": "I enjoy working directly with patient’s in clinic at Integrative. I have a passion for chronic disease management including cancer care and treating those affected by Lyme and co-infections. Seeing those who have been chronically ill highlights the importance of early intervention and preventative medicine and so I have turned to focusing on how to optimize health and Biohack to prevent disease occurrence and promote vitality.",
-
-    "paragraph": "I grew up in a naturopathic household and have always been fascinated by what our bodies are capable of. I believe that given the right support our bodies have amazing potential to maintain function (even as we age), recover from injury and allow us to lead empowered and fulfilling lives. This belief caused me to create one of the first comprehensive Biohacking programs in Canada at my clinic Integrative Naturopathic Medical Centre. It also drives my work as a formulator of Hidrate, a natural electrolyte drink company I co-founded with my husband, supplement designer and health educator.",
-    "leftImage": "img/capability/left.jpg",
-    "middleImage": "img/capability/middle.jpg",
-    "rightImage": "img/capability/right.jpg",
-    "leftContent" : "Take charge of your health potential and harness the latest technology to optimize your genetics and overall well-being.",
-    "middleContent" : "Understand how disease impacts your whole-body and better manage contributing biochemical, structural and mental emotional factors.",
-    "rightContent" : "High demand results in high impact on your physical body. Customize your training and recovery to surpass your goals.",
-    "leftTitle" : "Biohacking",
-    "middleTitle" : "Chronic Disease",
-    "rightTitle" : "Athletic Performace",
-    "leftIcon" : "https://assets.website-files.com/616786a99cb0c574cc569c06/619c04f4fccf70c46c7813d5_icons8-molecule-32.png",
-    "middleIcon": "https://assets.website-files.com/616786a99cb0c574cc569c06/619c04cbd4bd673b968b6460_icons8-biotech-32.png",
-    "rightIcon": "https://assets.website-files.com/616786a99cb0c574cc569c06/619c051a562c874854dda087_icons8-lightning-bolt-32.png"
+    "element02Title": "Entrepreneur",
+    "element02Content": "I am proud to be a co-founder of Hidrate the first natural electrolyte drink formulated by a Naturopathic Doctor. Dehydration and a distaste for water is a major issue in North America and I felt a need to bring a healthy electrolyte drink to market. Using the cleanest ingredients and best forms of electrolytes Hidrate has exactly the electrolytes, trace minerals, and nutrients you need without added chemicals.",
+    "element03Title": "Educator & Formulator",
+    "element03Content": "Sharing my knowledge and experience is important to me and I look to do this through speaking engagements, writing and consulting. At Integrative I am the clinic’s Residency Program Director which helps to train new naturopathic graduates. I have also spoken at professional conferences on Biohacking and consulted with various companies working towards supplement and product development."
   },
   "Gallery": [
     {
