@@ -749,8 +749,43 @@ label {
 .workwithme-element-title {
   margin-top: 0px;
   margin-bottom: 0px;
-  font-family: Montserrat, sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 42px;
   line-height: 1.35em;
   font-weight: 600;
+}
+.reviewBox{
+  /* height: 600px; */
+  background-color: #202f31;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+.reviewContent{
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+  font-size: 36px;
+  font-weight: bold;
+  width: 50%;
+  margin: auto;
+}
+.reviewPerson{
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 500;
+  font-weight: bold;
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+}
+.reviewJob{
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  width: 50%;
+  margin: auto;
+  margin-top: 10px;
 }
