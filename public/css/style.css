@@ -634,14 +634,14 @@ label {
   align-self: end;
   width: 30%;
 }
-.leftContent{
+.leftContent {
   color: black !important;
   text-align: left;
 }
-.about-image{
+.about-image {
   border-radius: 50%;
 }
-.roundBtn{
+.roundBtn {
   border-radius: 20px;
   height: 40px;
   border-width: 1px;
@@ -650,23 +650,61 @@ label {
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer
+  cursor: pointer;
 }
-.roundBtn:hover{
+.roundBtn:hover {
   background-color: grey;
   color: white;
 }
-.roundDiv{
+.roundDiv {
   border-radius: 500px;
   padding: 20px;
-  border-color: grey;
+  border-color: #d6e3e7;
   border-style: solid;
   border-width: 1px;
 }
-.capability-image{
+.capability-image {
   width: 100%;
   object-fit: cover;
-  height: 400px;
+  height: 300px;
   border-top-left-radius: 500px;
   border-top-right-radius: 500px;
+}
+.capability-contentDiv {  
+  text-align: center;
+  margin-bottom: 50px;
+  border-bottom-left-radius: 500px;
+  border-bottom-right-radius: 500px;
+  border-width: 20px;
+  border-color: white;
+  border-style: solid;
+}
+.capability-iconDiv {
+  margin-top: -50px;
+  text-align: center;
+  border-radius: 50%;
+  border-width: 30px;
+  border-color: white;
+  border-style: solid;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+}
+.capability-icon {
+  padding: 20px;
+  border-radius: 50%;
+  border-width: 1px;
+  border-color: #d6e3e7;
+  border-style: solid;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.margin-down {
+  margin-top: 100px;
 }

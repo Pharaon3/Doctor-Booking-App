@@ -25,7 +25,31 @@
     "paragraph": "I grew up in a naturopathic household and have always been fascinated by what our bodies are capable of. I believe that given the right support our bodies have amazing potential to maintain function (even as we age), recover from injury and allow us to lead empowered and fulfilling lives. This belief caused me to create one of the first comprehensive Biohacking programs in Canada at my clinic Integrative Naturopathic Medical Centre. It also drives my work as a formulator of Hidrate, a natural electrolyte drink company I co-founded with my husband, supplement designer and health educator.",
     "leftImage": "img/capability/left.jpg",
     "middleImage": "img/capability/middle.jpg",
-    "rightImage": "img/capability/right.jpg"    
+    "rightImage": "img/capability/right.jpg",
+    "leftContent" : "Take charge of your health potential and harness the latest technology to optimize your genetics and overall well-being.",
+    "middleContent" : "Understand how disease impacts your whole-body and better manage contributing biochemical, structural and mental emotional factors.",
+    "rightContent" : "High demand results in high impact on your physical body. Customize your training and recovery to surpass your goals.",
+    "leftTitle" : "Biohacking",
+    "middleTitle" : "Chronic Disease",
+    "rightTitle" : "Athletic Performace",
+    "leftIcon" : "https://assets.website-files.com/616786a99cb0c574cc569c06/619c04f4fccf70c46c7813d5_icons8-molecule-32.png",
+    "middleIcon": "https://assets.website-files.com/616786a99cb0c574cc569c06/619c04cbd4bd673b968b6460_icons8-biotech-32.png",
+    "rightIcon": "https://assets.website-files.com/616786a99cb0c574cc569c06/619c051a562c874854dda087_icons8-lightning-bolt-32.png"
+  },
+  "Workwithme": {
+    "paragraph": "I grew up in a naturopathic household and have always been fascinated by what our bodies are capable of. I believe that given the right support our bodies have amazing potential to maintain function (even as we age), recover from injury and allow us to lead empowered and fulfilling lives. This belief caused me to create one of the first comprehensive Biohacking programs in Canada at my clinic Integrative Naturopathic Medical Centre. It also drives my work as a formulator of Hidrate, a natural electrolyte drink company I co-founded with my husband, supplement designer and health educator.",
+    "leftImage": "img/capability/left.jpg",
+    "middleImage": "img/capability/middle.jpg",
+    "rightImage": "img/capability/right.jpg",
+    "leftContent" : "Take charge of your health potential and harness the latest technology to optimize your genetics and overall well-being.",
+    "middleContent" : "Understand how disease impacts your whole-body and better manage contributing biochemical, structural and mental emotional factors.",
+    "rightContent" : "High demand results in high impact on your physical body. Customize your training and recovery to surpass your goals.",
+    "leftTitle" : "Biohacking",
+    "middleTitle" : "Chronic Disease",
+    "rightTitle" : "Athletic Performace",
+    "leftIcon" : "https://assets.website-files.com/616786a99cb0c574cc569c06/619c04f4fccf70c46c7813d5_icons8-molecule-32.png",
+    "middleIcon": "https://assets.website-files.com/616786a99cb0c574cc569c06/619c04cbd4bd673b968b6460_icons8-biotech-32.png",
+    "rightIcon": "https://assets.website-files.com/616786a99cb0c574cc569c06/619c051a562c874854dda087_icons8-lightning-bolt-32.png"
   },
   "Gallery": [
     {

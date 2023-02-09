@@ -1,9 +1,9 @@
 import React from "react";
 import { MDBRow, MDBCol } from "mdb-react-ui-kit";
 
-export const Capability = (props) => {
+export const Workwithme = (props) => {
   return (
-    <div id="capability">
+    <div id="workwithme">
       <div className="container">
         <div className="row">
           <h4 style={{ textAlign: "center" }}> CORE CAPABILITIES </h4>
