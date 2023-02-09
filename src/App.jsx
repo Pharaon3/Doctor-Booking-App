@@ -36,10 +36,6 @@ const App = () => {
       <Workwithme data={landingPageData.Workwithme} />
       <Review data={landingPageData.Review} />
       <Blog data={landingPageData.Blog} />
-      <Services data={landingPageData.Services} />
-      <Gallery data={landingPageData.Gallery} />
-      <Testimonials data={landingPageData.Testimonials} />
-      <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />
     </div>
   );
