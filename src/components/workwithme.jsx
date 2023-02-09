@@ -17,14 +17,19 @@ export const Workwithme = (props) => {
               {props.data ? props.data.headerContent : "Loading"}{" "}
             </p>
           </div>
-
-          <div className="col-xs-12 col-md-6">
+          <div id="workwithme-01" className="workwithme-elements">
             {" "}
             <img
               src="img/portfolio/about.jpg"
-              className="img-responsive about-image mainImage"
+              className="img-responsive workwithme-image mainImage"
               alt=""
             />{" "}
+            <div className="margin100">
+              <p className="workwithme-element-id">01</p>
+              <h2 className="workwithme-element-title">{props.data ? props.data.element01Title : "Loading"}</h2>
+              <p>{props.data ? props.data.element01Content : "Loading"}</p>
+              <h3 className="roundBtn">Book a session</h3>
+            </div>
           </div>
         </div>
       </div>
