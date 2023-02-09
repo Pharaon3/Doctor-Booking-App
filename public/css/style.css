@@ -262,7 +262,7 @@ header .intro-text {
   padding: 100px 0;
 }
 #about h3 {
-  font-size: 22px;
+  /* font-size: 22px; */
   margin: 0 0 20px;
 }
 #about h2 {
@@ -655,6 +655,16 @@ label {
   cursor: pointer;
   width: 50%;
   margin: auto;
+  position: relative;
+  z-index: 20;
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Montserrat, sans-serif;
+  color: #000;
+  font-size: 11px;
+  letter-spacing: 4px;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 .roundBtn:hover {
   background-color: grey;
@@ -943,7 +953,7 @@ h1 {
   letter-spacing: 1px;
   text-transform: none;
 }
-.navMenu{
+.navMenu {
   color: #000;
   font-size: 12px;
   letter-spacing: 4px;
@@ -954,14 +964,14 @@ h1 {
   opacity: 0.7;
   width: 20px;
 }
-.social-roundBtn{
+.social-roundBtn {
   border-radius: 1000px;
   border-style: solid;
   border-width: 1px;
   border-color: #aaa;
   margin-left: 10px;
 }
-.contact-roundBtn{
+.contact-roundBtn {
   border-radius: 1000px;
   border-style: solid;
   border-width: 1px;

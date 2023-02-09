@@ -29,6 +29,16 @@ export const Header = (props) => {
                 className="mainImage col-md-6 col-md-offset-1"
                 alt={props.data ? props.data.title : "Loading"}
               />
+              
+              <div className="flex">
+                  <div className="capability-iconDiv">
+                    <img
+                      src={props.data ? props.data.middleIcon : "none"}
+                      className="capability-icon"
+                      alt="left icon"
+                    />
+                  </div>
+                </div>
             </div>
           </div>
         </div>
