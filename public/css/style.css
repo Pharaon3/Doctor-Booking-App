@@ -1,6 +1,6 @@
 body,
 html {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
   text-rendering: optimizeLegibility !important;
   -webkit-font-smoothing: antialiased !important;
   color: #777;
@@ -11,7 +11,7 @@ html {
 h2,
 h3,
 h4 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 h2 {
   text-transform: uppercase;
@@ -81,14 +81,14 @@ hr {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
 #menu a.navbar-brand {
-  font-family: "Raleway", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 24px;
   font-weight: 700;
   color: #333;
   text-transform: uppercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
-  font-family: "Lato", sans-serif;
+  font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
   color: #555;
   font-size: 15px;
@@ -163,7 +163,7 @@ hr {
   font-size: 18px;
 }
 .btn-custom {
-  font-family: "Raleway", sans-serif;
+  font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
   color: #fff;
   background-color: #5ca9fb;
@@ -213,7 +213,7 @@ a:focus,
   background: rgba(0, 0, 0, 0);
 }
 .intro h1 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #fff;
   font-size: 82px;
   font-weight: 700;
@@ -284,7 +284,7 @@ header .intro-text {
 }
 #about .about-text li:before {
   content: "\f00c";
-  font-family: "FontAwesome";
+  font-family: "Montserrat", sans-serif;
   color: #5ca9fb;
   font-size: 11px;
   font-weight: 300;
@@ -504,7 +504,7 @@ header .intro-text {
 label {
   font-size: 12px;
   font-weight: 400;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
   float: left;
 }
 #contact .form-control {
@@ -709,12 +709,12 @@ label {
   margin-top: 100px;
 }
 .workwithme-header{
-  width: 60%;
+  width: 40%;
   text-align: center;
   margin: auto;
 }
 .workwithme-header p{
-  font-family: Montserrat, sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: #000;
   font-size: 18px;
   line-height: 1.65em;
