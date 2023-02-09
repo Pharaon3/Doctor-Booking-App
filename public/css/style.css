@@ -664,6 +664,9 @@ label {
   border-width: 1px;
 }
 .capability-image{
-  width: 300px;
-  border-radius: 500px;
+  width: 100%;
+  object-fit: cover;
+  height: 400px;
+  border-top-left-radius: 500px;
+  border-top-right-radius: 500px;
 }
