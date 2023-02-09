@@ -36,6 +36,20 @@
     "middleIcon": "https://assets.website-files.com/616786a99cb0c574cc569c06/619c04cbd4bd673b968b6460_icons8-biotech-32.png",
     "rightIcon": "https://assets.website-files.com/616786a99cb0c574cc569c06/619c051a562c874854dda087_icons8-lightning-bolt-32.png"
   },
+  "Blog": {
+    "leftImage": "img/blog/left.jpg",
+    "middleImage": "img/blog/middle.jpg",
+    "rightImage": "img/blog/right.jpg",
+    "leftContent" : "I’ve been experimenting lately with gluten-free baking. In particular aiming for a good morning muffin that is gluten, dairy and sugar free but still delicious.",
+    "middleContent" : "Understand how disease impacts your whole-body and better manage contributing biochemical, structural and mental emotional factors.",
+    "rightContent" : "As a doctor I want to empower people to make change in their life that opens the door to optimal health.",
+    "leftTitle" : "GF Chocolate Coconut Mandarin Muffins",
+    "middleTitle" : "Chronic Disease",
+    "rightTitle" : "How I Become A Naturopathic Doctor",
+    "leftDate" : "JUNE 27, 2022",
+    "middleDate": "JUNE 8, 2022",
+    "rightDate": "JUNE 8, 2022"
+  },
   "Workwithme": {
     "headerTitle": "How I can help you",
     "headerContent": "I work with patients in my office practice at Integrative. I also consult for companies regarding product development, present at conferences and write about functional health and naturopathic medicine.",
