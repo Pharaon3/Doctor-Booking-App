@@ -33,7 +33,7 @@ export const Contact = (props) => {
   };
   return (
     <div>
-      <div id="contact">
+      <div id="contact" style={{marginTop: 50}}>
         <div className="container">
           <div className="col-md-3"></div>
           <div class="stacked-title-2 col-md-6">
