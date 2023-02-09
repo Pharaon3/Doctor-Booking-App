@@ -13,7 +13,7 @@ export const Capability = (props) => {
               <div className="roundDiv">
                 <img
                   src={props.data ? props.data.leftImage : "none"}
-                  className=""
+                  className="capability-image"
                   alt="left image"
                 />
               </div>
@@ -21,18 +21,18 @@ export const Capability = (props) => {
             <MDBCol md="4">
               <div className="roundDiv">
                 <img
-                  src={props.data ? props.data.leftImage : "none"}
-                  className=""
-                  alt="left image"
+                  src={props.data ? props.data.middleImage : "none"}
+                  className="capability-image"
+                  alt="middle image"
                 />
               </div>
             </MDBCol>
             <MDBCol md="4">
               <div className="roundDiv">
                 <img
-                  src={props.data ? props.data.leftImage : "none"}
-                  className=""
-                  alt="left image"
+                  src={props.data ? props.data.rightImage : "none"}
+                  className="capability-image"
+                  alt="right image"
                 />
               </div>
             </MDBCol>
