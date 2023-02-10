@@ -216,6 +216,12 @@
       "content": "* This website offers health and wellness information and is provided for educational purposes only. This is not intended to be a substitute for professional medical advice, diagnosis or treatment. Always speak with your physician or other healthcare provider before taking any medication or supplement, changing your diet/lifestyle or using any treatment for a medical concern. Do not disregard professional medical advice or delay in seeking medical care because of something you have read on this website."
     }
   },
+  "About": {
+    "Hero": {
+      "title": "Health is a delicate balance between your biochemistry, structure and mental/emotional needs.",
+      "content": "Each of us has a story that has brought us to this point where we are seeking for more from our body and mind. Read more about my story as a Biohacker, science nerd and passionate Naturopathic Doctor."
+    }
+  },
   "Features": [
     {
       "icon": "fa fa-comments-o",

@@ -18,11 +18,10 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll " href="#page-top">
             <Link to="/">
               <span className="logo">Dr. Alex Chan</span>
             </Link>
-          </a>{" "}
+          {" "}
         </div>
 
         <div

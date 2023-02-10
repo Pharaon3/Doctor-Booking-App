@@ -995,3 +995,18 @@ h1 {
   z-index: 10;
   background-color: #f5fafc;
 }
+.about-hero-title{
+  font-size: 56px;
+  font-family: Montserrat, sans-serif;
+  line-height: 1.35em;
+  font-weight: 600;
+  color: #000;
+  margin-left: 50px;
+}
+.about-hero-content{
+  font-size: 20px;
+  font-family: Montserrat, sans-serif;
+  line-height: 1.35em;
+  color: #000;
+  margin-left: 50px;
+}
