@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export const Navigation = (props) => {
   return (
@@ -18,7 +19,9 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll " href="#page-top">
-            <span className="logo">Dr. Alex Chan</span>
+            <Link to="/">
+              <span className="logo">Dr. Alex Chan</span>
+            </Link>
           </a>{" "}
         </div>
 
@@ -28,21 +31,21 @@ export const Navigation = (props) => {
         >
           <ul className="nav navbar-nav navbar-right">
             <li>
-              <a href="#about" className="page-scroll">
-                <span className="navMenu">About</span>
-              </a>
+                <Link to="/about">
+                  <span className="navMenu">About</span>
+                </Link>
             </li>
             <li>
-              <a href="#services" className="page-scroll">
-                <span className="navMenu">LEARN</span>
-              </a>
+                <Link to="/learn">
+                  <span className="navMenu">LEARN</span>
+                </Link>
             </li>
             <li>
-              <a href="#portfolio" className="page-scroll">
-                <span className="navMenu">Work with me</span>
-              </a>
+                <Link to="/workwithme">
+                  <span className="navMenu">Work with me</span>
+                </Link>
             </li>
-            <li className="flex" style={{display: 'flex', height: 45}}>
+            <li className="flex" style={{ display: "flex", height: 45 }}>
               <div id="socialImages" className="flex">
                 <div className="social-roundBtn">
                   <a
@@ -94,7 +97,7 @@ export const Navigation = (props) => {
 
             <li>
               <a href="#contact" className="page-scroll">
-                <span className="contact-roundBtn">Contact</span> 
+                <span className="contact-roundBtn">Contact</span>
               </a>
             </li>
           </ul>
