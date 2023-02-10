@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 export const Hero = (props) => {
   return (
     <div style={{ marginTop: 300 }}>
-      <div className="row">
+      <div className="row nomargin">
         <div className=" col-md-6">
           <div className="about-hero-title">
             {" "}
@@ -11,13 +11,20 @@ export const Hero = (props) => {
           </div>
         </div>
       </div>
-      <div className="row">
+      <div className="row nomargin">
         <div className="col-md-4">
           <div className="about-hero-content">
             {" "}
             {props.data ? props.data.content : "Loading"}
           </div>
         </div>
+      </div>
+      <div className="row nomargin">
+        <img
+          src={props.data ? props.data.heroImage : "none"}
+          className="about-hero-img"
+          alt="left image"
+        />
       </div>
     </div>
   );

@@ -219,7 +219,18 @@
   "About": {
     "Hero": {
       "title": "Health is a delicate balance between your biochemistry, structure and mental/emotional needs.",
+      "heroImage": "https://assets.website-files.com/616786a99cb0c574cc569c06/616dd0eecbea0f1a1ab91770__ANA7326.jpg",
       "content": "Each of us has a story that has brought us to this point where we are seeking for more from our body and mind. Read more about my story as a Biohacker, science nerd and passionate Naturopathic Doctor."
+    },
+    "Story": {
+      "title": "Hi I'm Dr. Alex Chan",
+      "subtitle": "MY STORY",
+      "content": "My journey towards alternative health care is unique as I was born into a family of health practitioners: my mom is a Registered Massage Therapist and my dad is an Acupuncturist, Chiropractor and Naturopathic Doctor. I knew from a young age that I respect the wisdom of the body and believe that with the right tools we can promote self-healing. Becoming a Naturopathic Physician was a logical step as on this path I felt I could best serve people along their own personal discovery of health. I have a particular interest in how naturopathic philosophy can work alongside conventional care to provide the best medial care. With this integrated and complementary approach, I’m drawn to common chronic conditions like heart disease and type II diabetes, as well as autoimmune conditions and chronic infections like Lyme and associate co-infections. I’m also particularly passionate about cancer care. Cancer is a growing epidemic that affects 1 in 3 people in North American society. Personally cancer has affected too many members of my family including the early loss of my grandmother in her 50s and my dad’s personal journey during his teens. Many people have watched loved ones battle with cancer diagnoses and wished there was something they could do beyond the conventional treatment that is delivered. To this end, I have sought out specific training to work with cancer patients and use natural supplements, IV therapy and nutrition as needed to address cancer and the side effects from conventional therapy.Seeing the toll that chronic disease takes on the body highlighted my belief in early health intervention. Instead of only focusing on those with chronic disease I have also devoted attention towards athletic and health optimization. The tools I use to help patients achieve peak performance address three main aspects of health: biochemical, structural, and mental/emotional. If this triad is taken care of it allows people to function at their best. I’m excited to be a part of the Biohacking world and apply various hacks in my patient recommendations and my own life. I also am well versed in sports nutrition and in particular Paleo and ketogenic diets. This knowledge led me to co-found an electrolyte drink company with my husband and I’m proud that we make Hidrate, the best healthy hydration option available."
+    },
+    "Gallery": {
+      "image01": "https://assets.website-files.com/616786a99cb0c574cc569c06/616dd0df447d37bf2864ee0c__ANA6457.jpg",
+      "image02": "https://assets.website-files.com/616786a99cb0c574cc569c06/616dd0e0be8a4cc55cbd77ca__ANA6290.jpg",
+      "image03": "https://assets.website-files.com/616786a99cb0c574cc569c06/616dd0fa15e78b5956e262ca__ANA7813.jpg"
     }
   },
   "Features": [
