@@ -36,14 +36,14 @@ export const Contact = (props) => {
       <div id="contact" style={{marginTop: 50}}>
         <div className="container">
           <div className="col-md-3"></div>
-          <div class="stacked-title-2 col-md-6">
-            <div class="color-white subtitle">join the converation</div>
-            <h1 class="heading-3 text-white">
+          <div className="stacked-title-2 col-md-6">
+            <div className="color-white subtitle">join the converation</div>
+            <h1 className="heading-3 text-white">
               Stay on the leading edge of functional health news, biohacking
               tips and learn with me each month.
             </h1>
 
-            <form name="sentMessage" validate onSubmit={handleSubmit}>
+            <form name="sentMessage" onSubmit={handleSubmit}>
               <div className="row">
                 <div className="col-md-2"></div>
                 <div className="col-md-8">
