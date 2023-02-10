@@ -231,6 +231,43 @@
       "image01": "https://assets.website-files.com/616786a99cb0c574cc569c06/616dd0df447d37bf2864ee0c__ANA6457.jpg",
       "image02": "https://assets.website-files.com/616786a99cb0c574cc569c06/616dd0e0be8a4cc55cbd77ca__ANA6290.jpg",
       "image03": "https://assets.website-files.com/616786a99cb0c574cc569c06/616dd0fa15e78b5956e262ca__ANA7813.jpg"
+    },
+    "Experience": {
+      "title": "EXPERIENCE",
+      "title0": "Education",
+      "content0": [
+        "National University of Natural Medicine",
+        "University of British Columbia"
+      ],
+      "title1": "Certifications",
+      "content1": [
+        "Prescriptive Authority",
+        "Acupuncture",
+        "Intravenous Therapies",
+        "Ozone and Oxidative Therapies",
+        "Supportive Oligonucleotide Technique (SOT)"
+      ],
+      "title2": "Additional Training",
+      "content2": [
+        "RGCC Registered Physician",
+        "Neural Prolotherapy",
+        "Neural Therapy",
+        "Non-Chemo Insulin-Potentiated Therapy",
+        "Visceral and Manual Manipulation",
+        "Applied Kinesiology"
+      ],
+      "title3": "Associations",
+      "content3": [
+        "College of Naturopathic Physicians of BC",
+        "British Columbia Naturopathic Association",
+        "Best Answer for Cancer"
+      ]
+    },
+    "Workproduct": {
+      "subtitle": "How can i help you",
+      "title": "Let's work together",
+      "content": "I work with patients in my office practice at Integrative. I also consult for companies regarding product development, present at conferences and write about functional health and naturopathic medicine.",
+      "image": "https://assets.website-files.com/616786a99cb0c574cc569c06/616dd0f5a269c49eb11e347c__ANA7387.jpg"
     }
   },
   "Features": [
