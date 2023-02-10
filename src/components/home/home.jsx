@@ -11,7 +11,7 @@ import JsonData from "../../data/data.json";
 export const Home = () => {
   const [landingPageData, setLandingPageData] = useState({});
   useEffect(() => {
-    setLandingPageData(JsonData);
+    setLandingPageData(JsonData.Home);
   }, []);
 
   return (
