@@ -11,10 +11,12 @@ export const Hero = (props) => {
           </div>
         </div>
       </div>
-      <div className="col-md-4">
-        <div className="about-hero-content">
-          {" "}
-          {props.data ? props.data.content : "Loading"}
+      <div className="row">
+        <div className="col-md-4">
+          <div className="about-hero-content">
+            {" "}
+            {props.data ? props.data.content : "Loading"}
+          </div>
         </div>
       </div>
     </div>
