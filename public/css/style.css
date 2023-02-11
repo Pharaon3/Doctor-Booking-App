@@ -722,6 +722,9 @@ label {
 .margin-down {
   margin-top: 100px;
 }
+.margin-top {
+  margin-bottom: 100px;
+}
 .workwithme-header {
   width: 40%;
   text-align: center;
@@ -831,6 +834,8 @@ label {
   border-color: #d6e3e7;
   border-style: solid;
   border-width: 1px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 .blog-image {
   width: 100%;
@@ -1168,7 +1173,7 @@ h1 {
   display: flex;
   align-items: center;
 }
-.about-workproduct{
+.about-workproduct {
   display: flex;
 }
 .learn-hero-title {
@@ -1189,7 +1194,6 @@ h1 {
   border-style: solid;
   margin-top: 100px;
 }
-
 .learn-hero-content {
   font-size: 18px;
   font-family: Montserrat, sans-serif;
@@ -1197,6 +1201,10 @@ h1 {
   color: #000;
   margin-top: 20px;
   text-align: center;
+}
+.learn-blog {
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 @media (max-width: 1024px) {
@@ -1245,14 +1253,17 @@ h1 {
     color: #000;
     margin-left: 5px;
   }
-  .about-story-content{
+  .about-story-content {
     column-count: 1;
   }
-  .about-workproduct{
+  .about-workproduct {
     display: block;
   }
-  .about-hero-content{
+  .about-hero-content {
     margin-left: 10px;
+  }
+  .margin-down {
+    margin-top: auto;
   }
 }
 

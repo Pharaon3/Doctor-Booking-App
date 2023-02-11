@@ -3,42 +3,33 @@ import { MDBRow, MDBCol } from "mdb-react-ui-kit";
 
 export const Blog = (props) => {
   return (
-    <div id="blog">
+    <div id="blog" style={{marginTop: 200}}>
       <div className="container">
         <div className="row">
           <MDBRow>
-            <MDBCol md="6">
-              <div className="blogRoundDiv">
-                <img
-                  src={props.data ? props.data.leftImage : "none"}
-                  className="blog-image"
-                  alt="left image"
-                />
-                <div className="blog-contentDiv">
-                  <h3 className="blogDate">{props.data ? props.data.leftDate : "none"}</h3>
-                  <h3>{props.data ? props.data.leftTitle : "none"}</h3>
-                  <p>{props.data ? props.data.leftContent : "none"}</p>
-                  <p className="link">Read more</p>
-                </div>
-              </div>
-            </MDBCol>
-            <MDBCol md="6">
-              <div className="blogRoundDiv margin-down">
-                <img
-                  src={props.data ? props.data.rightImage : "none"}
-                  className="blog-image"
-                  alt="right image"
-                />
-                <div className="blog-contentDiv">
-                  <h3 className="blogDate">{props.data ? props.data.rightDate : "none"}</h3>
-                  <h3>{props.data ? props.data.rightTitle : "none"}</h3>
-                  <p>{props.data ? props.data.rightContent : "none"}</p>
-                </div>
-              </div>
-            </MDBCol>
+            {props.data ? props.data.map(function (item, i){
+              return(
+                <MDBCol md="6" key={"learn-blog-" + i} className={i % 2 ? "margin-down" : ""}>
+                  <div className="blogRoundDiv">
+                    <img
+                      src={item.image}
+                      className="blog-image"
+                      alt={"learn blog image" + i}
+                    />
+                    <div className="blog-contentDiv">
+                      <h3 className="blogDate">{item.date}</h3>
+                      <h3>{item.title}</h3>
+                      <p>{item.content}</p>
+                      <p className="link">Read more</p>
+                    </div>
+                  </div>
+                </MDBCol>
+              )
+            } ) : "Loading"}
           </MDBRow>
         </div>
       </div>
+      <div style={{marginBottom: 200}}/>
     </div>
   );
 };

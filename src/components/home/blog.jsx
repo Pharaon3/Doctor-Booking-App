@@ -25,8 +25,8 @@ export const Blog = (props) => {
                 </div>
               </div>
             </MDBCol>
-            <MDBCol md="6">
-              <div className="blogRoundDiv margin-down">
+            <MDBCol md="6" className="margin-down" >
+              <div className="blogRoundDiv">
                 <img
                   src={props.data ? props.data.rightImage : "none"}
                   className="blog-image"
