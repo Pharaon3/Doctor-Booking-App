@@ -1207,6 +1207,27 @@ h1 {
   margin-bottom: 50px;
 }
 
+.workwithme-hero-title {
+  font-size: 56px;
+  font-family: Montserrat, sans-serif;
+  line-height: 1.35em;
+  font-weight: 600;
+  text-align: center;
+}
+.workwithme-hero-content {
+  font-size: 20px;
+  font-family: Montserrat, sans-serif;
+  line-height: 1.35em;
+  margin-top: 20px;
+  text-align: center;
+}
+.workwithme-hero{
+  padding-top: 200px;
+  padding-bottom: 200px;
+  background-color: #202f31;
+  color: white;
+}
+
 @media (max-width: 1024px) {
   .home-header {
     display: block;

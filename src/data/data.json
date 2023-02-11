@@ -302,6 +302,12 @@
       }
     ]
   },
+  "Workwithme":{
+    "Hero":{
+      "title": "The prospect of creating something new fills me with excitement.",
+      "content": "My education and professional experience has given me a unique perspective on the health, fitness and food industries. I share my expertise daily with my patients but also love to use them through consulting and speaking engagements."
+    }
+  },
   "Features": [
     {
       "icon": "fa fa-comments-o",
