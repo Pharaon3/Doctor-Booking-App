@@ -1229,7 +1229,21 @@ h1 {
   background-color: #202f31;
   color: white;
 }
-
+.workwithme-element-image {
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+}
+.contact-hero-background {
+  background-image: url(https://assets.website-files.com/616786a99cb0c574cc569c06/61d490155febdd7b244a27c5__ANA7934.jpg);
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 700px;
+  border-width: 10px;
+  border-color: #f5fafc;
+  border-style: solid;
+}
 @media (max-width: 1024px) {
   .home-header {
     display: block;
