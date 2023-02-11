@@ -1,5 +1,5 @@
 import React from "react";
-import { MDBRow, MDBCol } from "mdb-react-ui-kit";
+import { Link } from "react-router-dom";
 
 export const Element = (props) => {
   return (
@@ -24,7 +24,7 @@ export const Element = (props) => {
                       <p className="workwithme-element-id">{item.subtitle}</p>
                       <h2 className="workwithme-element-title">{item.title}</h2>
                       <p>{item.content}</p>
-                      <h3 className="roundBtn">{item.button}</h3>
+                      <Link to={item.link}><h3 className="roundBtn">{item.button}</h3></Link>
                     </div>
                   </div>
                 );

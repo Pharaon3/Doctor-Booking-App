@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 
 export const Workproduct = (props) => {
   return (
@@ -18,7 +19,7 @@ export const Workproduct = (props) => {
               {" "}
               {props.data ? props.data.content : "Loading"}
             </div>
-            <div className="roundBtn">CONTACT ME</div>
+            <Link to='/contact'><div className="roundBtn">CONTACT ME</div></Link>
           </div>
         </div>
         <div className="col-md-5 workproduct-image"></div>

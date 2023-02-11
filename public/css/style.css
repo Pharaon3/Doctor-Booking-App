@@ -1244,6 +1244,23 @@ h1 {
   border-color: #f5fafc;
   border-style: solid;
 }
+.contact-element-input{
+  min-height: 60px;
+  margin-bottom: 0px;
+  padding: 18px 24px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #d6e3e7;
+  border-radius: 40px;
+  background-color: hsla(0, 0%, 100%, 0);
+  -webkit-transition: all 400ms cubic-bezier(.25, .46, .45, .94);
+  transition: all 400ms cubic-bezier(.25, .46, .45, .94);
+  width: 500px;
+}
+.contact-form-group{
+  display: flex;
+  justify-content: center;
+}
 @media (max-width: 1024px) {
   .home-header {
     display: block;
@@ -1308,4 +1325,10 @@ h1 {
 .row {
   margin-left: 0;
   margin-right: 0;
+}
+
+@media (max-width: 600px) {
+  .contact-element-input{
+    width: 100%;
+  }
 }

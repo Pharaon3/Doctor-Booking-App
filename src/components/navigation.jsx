@@ -95,9 +95,9 @@ export const Navigation = (props) => {
             </li>
 
             <li>
-              <a href="#contact" className="page-scroll">
+              <Link to='/contact'>
                 <span className="contact-roundBtn">Contact</span>
-              </a>
+              </Link>
             </li>
           </ul>
         </div>

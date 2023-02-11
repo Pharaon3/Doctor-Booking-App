@@ -6,6 +6,8 @@ const initialState = {
   name: "",
   email: "",
   phone: "",
+  date: "",
+  time: "",
   message: "",
 };
 export const Element = (props) => {
@@ -81,6 +83,40 @@ export const Element = (props) => {
                 name="phone"
                 className="contact-element-input"
                 placeholder="Phone"
+                required
+                onChange={handleChange}
+              />
+              <p className="help-block text-danger"></p>
+            </div>
+          </div>
+        </div>
+        <div className="row">
+          <div className="col-md-2"></div>
+          <div className="col-md-8">
+            <div className="form-group contact-form-group">
+              <input
+                type="date"
+                id="date"
+                name="date"
+                className="contact-element-input"
+                placeholder="Date"
+                required
+                onChange={handleChange}
+              />
+              <p className="help-block text-danger"></p>
+            </div>
+          </div>
+        </div>
+        <div className="row">
+          <div className="col-md-2"></div>
+          <div className="col-md-8">
+            <div className="form-group contact-form-group">
+              <input
+                type="time"
+                id="time"
+                name="time"
+                className="contact-element-input"
+                placeholder="Time"
                 required
                 onChange={handleChange}
               />

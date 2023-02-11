@@ -313,6 +313,38 @@
         "subtitle": "WORK WITH ME",
         "title": "Develop a product together",
         "content": "Product design and new business opportunities are always exciting. Through development of Hidrate I have gained experience in how to bring specific ingredients, nutritional and health formulas into the food and beverage space. I also have worked with other companies on supplement development to create the most effective products. If you have a product idea that you are interested in developing please inquire on how my expertise can help",
+        "button": "CONTACT ME",
+        "link": "/contact"
+      },
+      {
+        "image": "https://assets.website-files.com/616786a99cb0c574cc569c06/616dd0fcd958e865d3287552__ANA7634.jpg",
+        "subtitle": "WORK WITH ME",
+        "title": "Book a Naturopathic appointment",
+        "content": "Let me help you on your health journey. I am accepting new patients through my practice at Integrative. If you are interesting in Biohacking, chronic disease/infection management or improving your overall health with an integrated and functional medicine approach I would love to meet you",
+        "button": "BOOK NOW",
+        "link": "/book"
+      },
+      {
+        "image": "https://assets.website-files.com/616786a99cb0c574cc569c06/61d48fa18ae591461ddad4d3__ANA6485.jpg",
+        "subtitle": "WORK WITH ME",
+        "title": "Book me as a speaker",
+        "content": "Representing naturopathic medicine is fundamental to me. If you are interested in having me speak at an upcoming event or contribute as a writer or panelist please contact me with the details of the proposed partnership.",
+        "button": "CONTACT ME",
+        "link": "/contact"
+      }
+    ]
+  },
+  "Contact":{
+    "Hero":{
+      "title": "Send me a message",
+      "content": "Please fill out the form below and I will be in touch as soon as possible."
+    },
+    "Element": [
+      {
+        "image": "https://assets.website-files.com/616786a99cb0c574cc569c06/618875ae14b63853a0b6764e__ANA7456.jpg",
+        "subtitle": "WORK WITH ME",
+        "title": "Develop a product together",
+        "content": "Product design and new business opportunities are always exciting. Through development of Hidrate I have gained experience in how to bring specific ingredients, nutritional and health formulas into the food and beverage space. I also have worked with other companies on supplement development to create the most effective products. If you have a product idea that you are interested in developing please inquire on how my expertise can help",
         "button": "CONTACT ME"
       },
       {
@@ -331,10 +363,10 @@
       }
     ]
   },
-  "Contact":{
+  "Book":{
     "Hero":{
-      "title": "Send me a message",
-      "content": "Please fill out the form below and I will be in touch as soon as possible."
+      "title": "Patient details",
+      "content": "Please note, a request for an appointment does not guarantee a time or practitioner. We'll reach out to you to collect the necessary information to confirm a booking."
     },
     "Element": [
       {

@@ -1,5 +1,5 @@
 import React from "react";
-import { MDBRow, MDBCol } from "mdb-react-ui-kit";
+import { Link } from "react-router-dom";
 
 export const Workwithme = (props) => {
   return (
@@ -65,7 +65,7 @@ export const Workwithme = (props) => {
                 {props.data ? props.data.element03Title : "Loading"}
               </h2>
               <p>{props.data ? props.data.element03Content : "Loading"}</p>
-              <h3 className="roundBtn">Contact me</h3>
+              <Link to="/contact"><h3 className="roundBtn">Contact me</h3></Link>
             </div>
           </div>
         </div>
