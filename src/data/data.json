@@ -269,6 +269,39 @@
       "image": "https://assets.website-files.com/616786a99cb0c574cc569c06/616dd0f5a269c49eb11e347c__ANA7387.jpg"
     }
   },
+  "Learn": {
+    "Hero": {
+      "title": "Bringing you science based health updates, recipes and thoughts on wellness.",
+      "heroImage": "https://assets.website-files.com/616786a99cb0c574cc569c06/616dd0fa15e78b5956e262ca__ANA7813.jpg",
+      "content": "Through my life I strive to walk the walk. Here you’ll find personal glimpses into my lifestyle and kitchen as well as my professional opinion on some of the most relevant functional medicine topics."
+    },
+    "Blog": [
+      {
+        "Date": "7.11.2022",
+        "image": "https://assets.website-files.com/616786a99cb0c53356569c11/62ba38c6e2d0462cf5a9e190__ANA5944.jpg",
+        "title": "GF Chocolate Coconut Mandarin Muffins",
+        "Content": "I’ve been experimenting lately with gluten-free baking. In particular aiming for a good morning muffin that is gluten, dairy and sugar free but still delicious."
+      },
+      {
+        "Date": "6.8.2022",
+        "image": "https://assets.website-files.com/616786a99cb0c53356569c11/62a12651f0e23e393420a486__ANA7239.jpg",
+        "title": "How I Become A Naturopathic Doctor",
+        "Content": "As a doctor I want to empower people to make change in their life that opens the door to optimal health."
+      },
+      {
+        "Date": "5.18.2022",
+        "image": "https://assets.website-files.com/616786a99cb0c53356569c11/619b20a48326044916a00230__ANA7819.jpg",
+        "title": "Incorporating mindfulness into your life",
+        "Content": "The practice of mindfulness is an age old concept but in the last several years I’ve seen an increase in its popularity."
+      },
+      {
+        "Date": "5.18.2022",
+        "image": "https://assets.website-files.com/616786a99cb0c53356569c11/619b20ed56723740e7bbe625__ANA6241.jpg",
+        "title": "Our attachments to food",
+        "Content": "So much of life is about moderation-what’s good in one quantity can be insignificant or deadly in a different amount."
+      }
+    ]
+  },
   "Features": [
     {
       "icon": "fa fa-comments-o",
@@ -291,7 +324,7 @@
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
   ],
-  "Footer":{
+  "Footer": {
     "content": "* This website offers health and wellness information and is provided for educational purposes only. This is not intended to be a substitute for professional medical advice, diagnosis or treatment. Always speak with your physician or other healthcare provider before taking any medication or supplement, changing your diet/lifestyle or using any treatment for a medical concern. Do not disregard professional medical advice or delay in seeking medical care because of something you have read on this website."
   }
 }

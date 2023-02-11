@@ -1171,6 +1171,33 @@ h1 {
 .about-workproduct{
   display: flex;
 }
+.learn-hero-title {
+  font-size: 42px;
+  font-family: Montserrat, sans-serif;
+  line-height: 1.35em;
+  font-weight: 600;
+  color: #000;
+  margin-left: 5px;
+  text-align: center;
+}
+.learn-hero-img {
+  background-image: url(https://assets.website-files.com/616786a99cb0c574cc569c06/616dd0fa15e78b5956e262ca__ANA7813.jpg);
+  background-size: cover;
+  min-height: 600px;
+  border-color: #f5fafc;
+  border-width: 20px;
+  border-style: solid;
+  margin-top: 100px;
+}
+
+.learn-hero-content {
+  font-size: 18px;
+  font-family: Montserrat, sans-serif;
+  line-height: 1.65em;
+  color: #000;
+  margin-top: 20px;
+  text-align: center;
+}
 
 @media (max-width: 1024px) {
   .home-header {

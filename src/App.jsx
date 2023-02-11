@@ -3,6 +3,7 @@ import { Navigation } from "./components/navigation";
 import { Footer } from "./components/footer";
 import { Home } from "./components/home/home";
 import { About } from "./components/about/about";
+import { Learn } from "./components/learn/learn";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
@@ -20,6 +21,7 @@ const App = () => {
         <Routes>
           <Route exact path="/" element={<Home />} />
           <Route path="/About" element={<About />} />
+          <Route path="/learn" element={<Learn />} />
         </Routes>
         <Footer />
       </Router>
