@@ -15,7 +15,7 @@ export const Header = (props) => {
               </div>
             </div>
           </div>
-          <div className="row">
+          <div className="row" style={{marginTop: 100}}>
             <div className="col-md-8 col-md-offset-2">
               <div className="home-header">
                 <div className="hero-left col-md-3">

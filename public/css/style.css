@@ -609,7 +609,7 @@ label {
   border-width: 1px;
   padding: 15px;
   border-color: #c7c7c7;
-  margin-top: 100px;
+  /* margin-top: 100px; */
   display: flex;
 }
 
@@ -741,11 +741,13 @@ label {
   display: flex;
   margin-top: 100px;
   margin-bottom: 100px;
+  justify-content: space-around;
+  align-items: center;
 }
 .workwithme-image {
   border-radius: 50%;
-  width: 40%;
-  height: 40%;
+  /* width: 40%;
+  height: 40%; */
 }
 .margin100 {
   margin: 100px;
@@ -1221,7 +1223,7 @@ h1 {
   margin-top: 20px;
   text-align: center;
 }
-.workwithme-hero{
+.workwithme-hero {
   padding-top: 200px;
   padding-bottom: 200px;
   background-color: #202f31;
@@ -1239,7 +1241,7 @@ h1 {
     border-width: 1px;
     padding: 15px;
     border-color: #c7c7c7;
-    margin-top: 100px;
+    /* margin-top: 100px; */
     margin-left: auto;
     margin-right: auto;
   }
@@ -1279,6 +1281,7 @@ h1 {
   }
   .about-workproduct {
     display: block;
+    justify-content: space-between;
   }
   .about-hero-content {
     margin-left: 10px;
