@@ -1023,13 +1023,6 @@ h1 {
   bottom: 0%;
   background-color: #202f31;
 }
-.about-hero-img {
-  width: 100%;
-  margin-top: 100px;
-  padding: 20px;
-  height: 750px;
-  aspect-ratio: 1;
-}
 .nomargin {
   margin: 0px;
 }
@@ -1056,6 +1049,10 @@ h1 {
   margin: 10px;
 }
 .about-gallery {
+  margin: 20px;
+  margin-top: 100px;
+}
+.about-gallery-marquee {
   display: flex;
 }
 .home-header {
@@ -1148,7 +1145,31 @@ h1 {
   color: #000;
   font-size: 18px;
   line-height: 1.65em;
-  margin-top: 20px;;
+  margin-top: 20px;
+}
+.workproduct-image {
+  background-image: url(https://assets.website-files.com/616786a99cb0c574cc569c06/616dd0f5a269c49eb11e347c__ANA7387.jpg);
+  background-position: 50% 100%;
+  background-size: cover;
+  min-height: 700px;
+  margin: 10px;
+}
+.about-hero-img {
+  background-image: url(https://assets.website-files.com/616786a99cb0c574cc569c06/616dd0eecbea0f1a1ab91770__ANA7326.jpg);
+  background-position: 50% 100%;
+  background-size: cover;
+  min-height: 700px;
+  border-color: #f5fafc;
+  border-width: 20px;
+  border-style: solid;
+  margin-top: 100px;
+}
+.workproduct-left {
+  display: flex;
+  align-items: center;
+}
+.about-workproduct{
+  display: flex;
 }
 
 @media (max-width: 1024px) {
@@ -1189,7 +1210,25 @@ h1 {
     width: 90%;
     font-size: 24px;
   }
+  .about-hero-title {
+    font-size: 42px;
+    font-family: Montserrat, sans-serif;
+    line-height: 1.35em;
+    font-weight: 600;
+    color: #000;
+    margin-left: 5px;
+  }
+  .about-story-content{
+    column-count: 1;
+  }
+  .about-workproduct{
+    display: block;
+  }
+  .about-hero-content{
+    margin-left: 10px;
+  }
 }
+
 .row {
   margin-left: 0;
   margin-right: 0;

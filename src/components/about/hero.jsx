@@ -20,11 +20,7 @@ export const Hero = (props) => {
         </div>
       </div>
       <div className="row nomargin">
-        <img
-          src={props.data ? props.data.heroImage : "none"}
-          className="about-hero-img"
-          alt="left image"
-        />
+        <div className="about-hero-img"></div>
       </div>
     </div>
   );
