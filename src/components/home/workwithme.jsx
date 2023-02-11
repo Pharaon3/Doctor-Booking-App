@@ -31,7 +31,10 @@ export const Workwithme = (props) => {
                 {props.data ? props.data.element01Title : "Loading"}
               </h2>
               <p>{props.data ? props.data.element01Content : "Loading"}</p>
-              <h3 className="roundBtn">Book a session</h3>
+              <Link to="/book">
+                {" "}
+                <h3 className="roundBtn">Book a session</h3>
+              </Link>
             </div>
           </div>
           <div id="workwithme-02" className="workwithme-elements">
@@ -65,7 +68,9 @@ export const Workwithme = (props) => {
                 {props.data ? props.data.element03Title : "Loading"}
               </h2>
               <p>{props.data ? props.data.element03Content : "Loading"}</p>
-              <Link to="/contact"><h3 className="roundBtn">Contact me</h3></Link>
+              <Link to="/contact">
+                <h3 className="roundBtn">Contact me</h3>
+              </Link>
             </div>
           </div>
         </div>

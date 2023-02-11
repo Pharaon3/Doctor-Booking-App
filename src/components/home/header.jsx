@@ -30,9 +30,9 @@ export const Header = (props) => {
                   className="mainImage col-md-6 header-image"
                   alt={props.data ? props.data.title : "Loading"}
                 />
-                <div className="flex letstalkParent">
+                {/* <div className="flex letstalkParent">
                   <p className="letstalk">lets talk</p>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
