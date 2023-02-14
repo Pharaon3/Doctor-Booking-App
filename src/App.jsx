@@ -9,6 +9,7 @@ import { Contact } from "./components/contact/contact";
 import { Book } from "./components/book/book";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import SmoothScroll from "smooth-scroll";
+import handleSubmit from "./handleFirebase";
 import "./App.css";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
@@ -17,6 +18,7 @@ export const scroll = new SmoothScroll('a[href*="#"]', {
 });
 
 const App = () => {
+  handleSubmit("testData");
   return (
     <div>
       <Router>

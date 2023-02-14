@@ -6,6 +6,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "emailjs-com": "^2.6.4",
+    "firebase": "^9.17.1",
     "mdb-react-ui-kit": "^5.1.0",
     "react": "^17.0.1",
     "react-bootstrap": "^2.7.0",

@@ -1262,6 +1262,12 @@ h1 {
   justify-content: center;
 }
 @media (max-width: 1024px) {
+  .workwithme-element-title{
+    font-size: 24px;
+  }
+  .workwithme-hero-title{
+    font-size: 56px;
+  }
   .home-header {
     display: block;
   }

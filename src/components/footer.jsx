@@ -21,7 +21,6 @@ export const Footer = () => {
           <a
             href="https://github.com/Pharaon3/Doctor-Booking-App"
             rel="nofollow"
-            style={{ marginLeft: "50px", marginRight: "50px" }}
           >
             TERMS & CONDITIONS
           </a>
