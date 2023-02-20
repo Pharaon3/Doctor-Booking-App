@@ -23,3 +23,9 @@ You can also change styles by modifying the ```public/css``` files.
 <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
 
 ##### Pharaon
+![landingpage](./screen/home.png)
+![landingpage](./screen/about.png)
+![landingpage](./screen/learn.png)
+![landingpage](./screen/workwithme.png)
+![landingpage](./screen/contact.png)
+![landingpage](./screen/blog.png)
