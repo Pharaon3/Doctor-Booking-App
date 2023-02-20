@@ -44,12 +44,18 @@ export const Navigation = (props) => {
                   <span className="navMenu">Work with me</span>
                 </Link>
             </li>
+            <li>
+                <Link to="/blog">
+                  <span className="navMenu">Blog</span>
+                </Link>
+            </li>
             <li className="flex" style={{ display: "flex", height: 45 }}>
               <div id="socialImages" className="flex">
                 <div className="social-roundBtn">
                   <a
                     href="https://www.instagram.com/dralexchan/"
                     target="_blank"
+                    rel="noreferrer"
                     className="social-icon small w-inline-block"
                     style={{ display: "flex" }}
                   >
@@ -65,6 +71,7 @@ export const Navigation = (props) => {
                   <a
                     href="https://www.linkedin.com/in/alex-chan-a12196214/?originalSubdomain=ca"
                     target="_blank"
+                    rel="noreferrer"
                     className="social-icon small w-inline-block"
                     style={{ display: "flex" }}
                   >
@@ -80,6 +87,7 @@ export const Navigation = (props) => {
                   <a
                     href="https://www.facebook.com/doctoralexchan/"
                     target="_blank"
+                    rel="noreferrer"
                     className="social-icon small w-inline-block"
                     style={{ display: "flex" }}
                   >
